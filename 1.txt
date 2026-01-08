@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<h1>Welcome to my Website</h1>
+<h3>Click to Find Out About Me!</h3>
+<a href="aboutme.html"><img src="./me.png"width="500" height="300"/></a>
+<h3>Click to Find OutAbout My Hobbies!</h3>
+a<href="myhobies.html">My Hobbies</a>
+</body>
+</html>
